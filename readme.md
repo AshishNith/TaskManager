@@ -35,3 +35,10 @@ Working on this Task Manager web app project provided me with valuable insights 
    ```bash
    git clone https://github.com/AshishNith/TaskManager
    cd TaskManager
+
+   source venv/bin/activate
+
+   python3 app.py # for Linux and mac 
+   python app.py # for windows
+
+   
